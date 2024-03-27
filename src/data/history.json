@@ -5,7 +5,7 @@
     "startDate": "May, 2023",
     "endDate": "Present",
     "experiences": ["Helped mentor other students during my free time", "Contributed to making the course better by providing issues","Built over 10 projects by translating example real-world client requirements into technical solutions"],
-    "imageSrc": "../../public/history/microverseinc_logo.jpeg"
+    "imageSrc": "../../history/microverseinc_logo.jpeg"
   },
   {
     "role": "Learner",
@@ -13,6 +13,6 @@
     "startDate": "Feb, 2022",
     "endDate": "June, 2023",
     "experiences": ["Participated on both the front end and back end of a food ordering site", " Was responsible for implementing authentication using jwt","Was responsible for filter features on React side"],
-    "imageSrc": "../../public/history/edureka_logo.jpeg"
+    "imageSrc": "../../history/edureka_logo.jpeg"
   }
 ]

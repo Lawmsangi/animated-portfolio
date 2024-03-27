@@ -5,57 +5,57 @@
   },
   {
     "title": "CSS",
-    "imageSrc": "../../public/skills/css.png"
+    "imageSrc": "../../skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "../../public/skills/js.png"
+    "imageSrc": "../../skills/js.png"
   },
   {
     "title": "Postman",
-    "imageSrc": "../../public/skills/postman-icon.webp"
+    "imageSrc": "../../skills/postman-icon.webp"
   },
   {
     "title": "React",
-    "imageSrc": "../../public/skills/react.png"
+    "imageSrc": "../../skills/react.png"
   },
   {
     "title": "Redux",
-    "imageSrc": "../../public/skills/Redux2.png"
+    "imageSrc": "../../skills/Redux2.png"
   },
   {
     "title": "Node",
-    "imageSrc": "../../public/skills/node.png"
+    "imageSrc": "../../skills/node.png"
   },{
     "title": "Ruby",
-    "imageSrc": "../../public/skills/ruby.png"
+    "imageSrc": "../../skills/ruby.png"
   },
   {
     "title": "Rails",
-    "imageSrc": "../../public/skills/rails.png"
+    "imageSrc": "../../skills/rails.png"
   },
   {
     "title": "Git",
-    "imageSrc": "../../public/skills/git.png"
+    "imageSrc": "../../skills/git.png"
   },
   {
     "title": "Figma",
-    "imageSrc": "../../public/skills/figma.png"
+    "imageSrc": "../../skills/figma.png"
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "../../public/skills/Bootstrap_logo.svg.png"
+    "imageSrc": "../../skills/Bootstrap_logo.svg.png"
   },
   {
     "title": "Tailwind CSS",
-    "imageSrc": "../../public/skills/tailwind.png"
+    "imageSrc": "../../skills/tailwind.png"
   },
   {
     "title": "PostgresSql",
-    "imageSrc": "../../public/skills/postgresSql.png"
+    "imageSrc": "../../skills/postgresSql.png"
   },
   {
     "title": "Jest",
-    "imageSrc": "../../public/skills/Jest.svg" 
+    "imageSrc": "../../skills/Jest.svg" 
   }
 ]
