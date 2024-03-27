@@ -1,0 +1,61 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../../skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../public/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "../../public/skills/js.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "../../public/skills/postman-icon.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "../../public/skills/react.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "../../public/skills/Redux2.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "../../public/skills/node.png"
+  },{
+    "title": "Ruby",
+    "imageSrc": "../../public/skills/ruby.png"
+  },
+  {
+    "title": "Rails",
+    "imageSrc": "../../public/skills/rails.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "../../public/skills/git.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "../../public/skills/figma.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "../../public/skills/Bootstrap_logo.svg.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "../../public/skills/tailwind.png"
+  },
+  {
+    "title": "PostgresSql",
+    "imageSrc": "../../public/skills/postgresSql.png"
+  },
+  {
+    "title": "Jest",
+    "imageSrc": "../../public/skills/Jest.svg" 
+  }
+]
