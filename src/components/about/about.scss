@@ -3,15 +3,16 @@
 .about {
     position: relative;
     top: 7%;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 50px);
     background-color: rgba(12, 12, 12, 0.6);
     border-radius: 15px;
     padding: 63px;
-    margin: 10%;
+    margin: 5%;
 
     @include mobile {
         padding: 20px;
         margin: 20px;
+        height: 100%;
     }
 
     h2 {
@@ -30,7 +31,6 @@
         align-items: center;
         max-width: 1366px;
         height: 100%;
-        // margin: auto;
 
         @include mobile {
             flex-direction: column;

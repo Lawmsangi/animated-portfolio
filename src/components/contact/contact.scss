@@ -3,7 +3,7 @@
 .contact {
     height: 100%;
     max-width: 1366px;
-    margin: 0 20px;
+    margin: 0;
     display: flex;
     align-items: center;
     gap: 50px;
@@ -56,6 +56,16 @@
             position: absolute;
             margin: auto;
             z-index: -1;
+
+            svg {
+                width: 70%;
+                height: 70%;
+
+                @include mobile {
+                    width: 50%;
+                    height: 50%;
+                }
+            }
         }
 
         form {

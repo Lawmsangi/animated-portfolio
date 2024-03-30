@@ -38,12 +38,14 @@
             flex-wrap: wrap;
             gap: 27px;
             overflow-y: scroll;
+            scroll-behavior: smooth;
+            scrollbar-width: thin;
             height: 80vh;
             padding-bottom: 50px;
 
             @include mobile {
-                flex-direction: column;
-                flex-wrap: wrap;
+                align-items: center;
+                justify-content: center;
                 width: 100%;
                 height: auto;
             }
@@ -75,9 +77,6 @@
             }
         }
 
-        .skills::-webkit-scrollbar {
-            width: 10px;
-        }
     }
 
     .history {

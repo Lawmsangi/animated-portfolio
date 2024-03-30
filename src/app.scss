@@ -1,7 +1,7 @@
-html {
-    scroll-snap-type: y mandatory;
-    scroll-behavior: smooth;
-}
+// html {
+//     scroll-snap-type: y mandatory;
+//     scroll-behavior: smooth;
+// }
 
 * {
     padding: 0;
@@ -24,6 +24,7 @@ a {
 section {
     height: 100vh;
     scroll-snap-align: center;
+    margin: 0 5%;
 }
 
 #shadow-host-companion {
